@@ -37,14 +37,21 @@
 ---
 
 ## 📊 GitHub Stats
-![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight)
+
+![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishan-Salgotra&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
-📫 **Email:** salgotrakrishan2006@gmail.com 
+📫 **Email:** salgotrakrishan2006@gmail.com   
 🐍 **Python Projects Portfolio:** [github.com/Krishan-Salgotra?tab=repositories](https://github.com/Krishan-Salgotra?tab=repositories)
+
+---
+
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Krishan-Salgotra&color=blue&style=flat-square)
 
 ---
 
