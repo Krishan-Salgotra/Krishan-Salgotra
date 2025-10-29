@@ -1,3 +1,4 @@
+![Banner](banner.png)
 
 # 👋 Hey there, I'm Krishan Salgotra!
 
