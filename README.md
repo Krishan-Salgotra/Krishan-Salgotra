@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Krishan Salgotra Banner" width="100%">
+</p>
+
 # 👋 Hey there, I'm Krishan Salgotra!
 
 🎓 **First-Year B.Tech CSE Student**  
