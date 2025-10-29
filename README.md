@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Hey there, I'm Krishan Salgotra!
 
 🎓 **First-Year B.Tech CSE Student**  
