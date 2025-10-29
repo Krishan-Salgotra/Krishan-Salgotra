@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Krishan Salgotra Banner" width="100%">
+  <img src="banner.png" alt="Krishan Salgotra Banner" width="50%">
 </p>
 
 # 👋 Hey there, I'm Krishan Salgotra!
