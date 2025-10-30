@@ -30,24 +30,22 @@
 
 ### 🧮 [Python Calculator](https://github.com/Krishan-Salgotra/python-calculator)
 A simple calculator built in Python to perform basic arithmetic operations.  
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Tech:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ### 🔐 [Password Generator](https://github.com/Krishan-Salgotra/password_generator)
 Generates strong and secure passwords with customizable options for length and complexity.  
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Tech:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ### 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)
 A Python GUI-based weather app that displays real-time temperature, humidity, and conditions using the OpenWeather API.  
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Tech:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![API](https://img.shields.io/badge/OpenWeather-FF6F00?style=for-the-badge&logo=OpenWeather&logoColor=white)
+
 
 
 
