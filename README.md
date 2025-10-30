@@ -27,9 +27,16 @@
 ---
 
 ## 🧩 Featured Projects
-🔹 [🧮 Python Calculator](https://github.com/Krishan-Salgotra/python-calculator)  
-🔹 [🔐 Password Generator](https://github.com/Krishan-Salgotra/password_generator)
-- 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)
+
+- 🧮 [Python Calculator](https://github.com/Krishan-Salgotra/python-calculator)  
+  A simple calculator built in Python to perform basic arithmetic operations.
+
+- 🔐 [Password Generator](https://github.com/Krishan-Salgotra/password_generator)  
+  Generates strong and secure passwords with customizable options for length and complexity.
+
+- 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)  
+  A Python GUI-based weather app that displays real-time temperature, humidity, and conditions using the OpenWeather API.
+
 
 
 ---
