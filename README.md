@@ -46,7 +46,6 @@
 
 [![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krishan-Salgotra&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
