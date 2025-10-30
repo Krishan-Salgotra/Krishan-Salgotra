@@ -29,6 +29,8 @@
 ## 🧩 Featured Projects
 🔹 [🧮 Python Calculator](https://github.com/Krishan-Salgotra/python-calculator)  
 🔹 [🔐 Password Generator](https://github.com/Krishan-Salgotra/password_generator)
+- 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)
+
 
 ---
 
