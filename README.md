@@ -26,43 +26,56 @@
 
 ---
 
-# ✨ Featured Projects
+## 🌟 Featured Projects
 
 ---
 
 ### 🧮 [Python Calculator](https://github.com/Krishan-Salgotra/Calculator)
 A simple calculator built in Python to perform basic arithmetic operations.  
+
 **Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ### 🔐 [Password Generator](https://github.com/Krishan-Salgotra/Password-Generator)
 Generates strong and secure passwords with customizable options for length and complexity.  
+
 **Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ### 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)
 A Python GUI-based weather app that displays real-time temperature, humidity, and conditions using the OpenWeather API.  
+
 **Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDA58?style=for-the-badge&logo=python&logoColor=black)
-![OpenWeather](https://img.shields.io/badge/OpenWeather-FF8C00?style=for-the-badge&logo=cloud&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-FFDA58?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenWeather-FF8C00?style=for-the-badge&logo=cloud&logoColor=white"/>
+</p>
 
 ---
 
 ### 📝 [To-Do List App](https://github.com/Krishan-Salgotra/To-Do-List)
-A simple and elegant To-Do List web app that lets you add and manage your daily tasks easily with local storage support.  
+A simple and elegant To-Do List web app that lets you add and manage your daily tasks easily, with local storage support.  
+
 **Tech:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-💡 *More projects coming soon!*
+💡 *More exciting projects coming soon!*
+
 
 
 </div>
