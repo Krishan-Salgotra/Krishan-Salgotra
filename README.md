@@ -56,15 +56,6 @@ A Python GUI-based weather app that displays real-time temperature, humidity, an
 <img src="https://img.shields.io/badge/Tkinter-FFDA58?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenWeather-FF8C00?style=for-the-badge&logo=cloud&logoColor=white"/>
 
----
-
-### 📝 [To-Do List App](https://github.com/Krishan-Salgotra/To-Do-List)
-A simple and elegant To-Do List web app that lets you add and manage your daily tasks easily, with local storage support.  
-
-**Tech:**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ---
 
