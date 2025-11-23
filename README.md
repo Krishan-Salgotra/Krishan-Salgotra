@@ -79,6 +79,18 @@ A Python GUI-based weather app that displays real-time temperature, humidity, an
 
 ---
 
+### 📱 [QR Generator & Scanner](https://github.com/Krishan-Salgotra/QR-Generator-Scanner)  
+A Python application that generates **QR codes** and also **scans QR codes** using your webcam.  
+Runs as a GUI app (not terminal-based).
+
+**Tech:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/qrcode-000000?style=for-the-badge&logo=qr-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-FFDA58?style=for-the-badge&logo=python&logoColor=black"/>
+
+---
+
 💡 *More exciting projects coming soon!*
 
 </div>
