@@ -60,6 +60,15 @@ A Python-based encrypted password manager that:
 
 ---
 
+### 🌐 [Network Speed Tester](https://github.com/Krishan-Salgotra/Network-Speed-Tester)  
+A lightweight Python tool that tests your **download speed**, **upload speed**, and **ping** using the speedtest-cli library.  
+
+**Tech:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/speedtest--cli-000000?style=for-the-badge&logo=speedtest&logoColor=white"/>
+
+---
+
 ### 🌦️ [WeatherNow - Weather App](https://github.com/Krishan-Salgotra/WeatherNow)  
 A Python GUI-based weather app that displays real-time temperature, humidity, and conditions using the OpenWeather API.  
 
@@ -88,7 +97,7 @@ A Python GUI-based weather app that displays real-time temperature, humidity, an
 
 <div align="center">
 
-[![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)
+[![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)
 
 </div>
@@ -102,5 +111,5 @@ A Python GUI-based weather app that displays real-time temperature, humidity, an
 
 ---
 
-## 👀 Profile Visitors
+## 👀 Profile Visitors  
 ![Profile views](https://komarev.com/ghpvc/?username=Krishan-Salgotra&color=blueviolet&style=for-the-badge)
