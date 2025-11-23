@@ -2,10 +2,20 @@
   <img src="banner.png" alt="Krishan Salgotra Banner" width="50%">
 </p>
 
-# 👋 Hey there, I'm Krishan Salgotra!
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00DBDE, #FC00FF); -webkit-background-clip: text; color: transparent; font-size: 3rem;">
+    👋 Hey there, I'm Krishan Salgotra!
+  </span>
+</h1>
 
-🎓 **First-Year B.Tech CSE Student**  
-💻 **Python Developer** | 🚀 **Tech Enthusiast** | ⚡ **Future Software Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00DBDE&center=true&vCenter=true&width=700&lines=Python+Developer;Tech+Enthusiast;Future+Software+Engineer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  🎓 <b>First-Year B.Tech CSE Student</b> <br>
+  💻 <b>Python Developer</b> | 🚀 <b>Tech Enthusiast</b> | ⚡ <b>Future Software Engineer</b>
+</p>
 
 ---
 
@@ -80,8 +90,7 @@ A Python GUI-based weather app that displays real-time temperature, humidity, an
 ---
 
 ### 📱 [QR Generator & Scanner](https://github.com/Krishan-Salgotra/QR-Generator-Scanner)  
-A Python application that generates **QR codes** and also **scans QR codes** using your webcam.  
-Runs as a GUI app (not terminal-based).
+A Python application to **generate** and **scan** QR codes using a GUI interface and webcam scanning.
 
 **Tech:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
