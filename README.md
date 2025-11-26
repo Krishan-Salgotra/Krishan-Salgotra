@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00DBDE, #FC00FF); -webkit-background-clip: text; color: transparent; font-size: 3rem;">
-    👋 Hey there, I'm Krishan Salgotra!
-  </span>
+  👋 Hey there, I'm <b>Krishan Salgotra!</b>
 </h1>
 
 <p align="center">
@@ -118,8 +116,9 @@ A Python application to **generate** and **scan** QR codes using a GUI interface
 
 <div align="center">
 
-[![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/krishan-salgotra)
+[![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Krishan-Salgotra)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Krishan-Salgotra)
 
 </div>
 
