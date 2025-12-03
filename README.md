@@ -112,27 +112,6 @@ A Python application to **generate** and **scan** QR codes using a GUI interface
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Krishan-Salgotra&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Krishan's GitHub Stats"
-  />
-
-  <br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Salgotra&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-
-</div>
-
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** [salgotrakrishan2006@gmail.com](mailto:salgotrakrishan2006@gmail.com)  
